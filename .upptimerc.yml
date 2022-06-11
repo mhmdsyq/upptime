@@ -13,6 +13,7 @@ sites:
     url: https://www.giant.com.my/
 
 status-website:
+  theme: night
   baseUrl: https://mhmdsyq.github.io/upptime/ # where "repo" is your repository name
   name: Upptime
 
