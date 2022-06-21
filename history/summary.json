@@ -22,9 +22,9 @@
     "url": "https://corp.lotuss.com.my",
     "icon": "https://favicons.githubusercontent.com/corp.lotuss.com.my",
     "slug": "lotus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1400,
     "timeMonth": 1434,
     "timeYear": 1434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Aeon",
