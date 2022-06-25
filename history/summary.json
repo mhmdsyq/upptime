@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2139,
-    "timeDay": 2113,
-    "timeWeek": 1992,
+    "timeDay": 2138,
+    "timeWeek": 1960,
     "timeMonth": 2139,
     "timeYear": 2139,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/corp.lotuss.com.my",
     "slug": "lotus",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 1416,
-    "timeDay": 1495,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1419,
+    "timeDay": 1486,
     "timeWeek": 1416,
-    "timeMonth": 1416,
-    "timeYear": 1416,
+    "timeMonth": 1419,
+    "timeYear": 1419,
     "dailyMinutesDown": {
       "2022-06-21": 21
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 549,
-    "timeWeek": 486,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "time": 466,
+    "timeDay": 324,
+    "timeWeek": 465,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2007,
-    "timeDay": 2240,
-    "timeWeek": 1940,
-    "timeMonth": 2007,
-    "timeYear": 2007,
+    "time": 2010,
+    "timeDay": 2065,
+    "timeWeek": 1922,
+    "timeMonth": 2010,
+    "timeYear": 2010,
     "dailyMinutesDown": {}
   }
 ]
