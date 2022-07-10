@@ -4,19 +4,19 @@
     "url": "https://mydinexpress.my",
     "icon": "https://favicons.githubusercontent.com/mydinexpress.my",
     "slug": "mydin-express",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2241,
-    "timeDay": 2033,
-    "timeWeek": 2113,
-    "timeMonth": 2241,
-    "timeYear": 2241,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "94.94%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 2338,
+    "timeDay": 3302,
+    "timeWeek": 2527,
+    "timeMonth": 2338,
+    "timeYear": 2338,
     "dailyMinutesDown": {
-      "2022-07-10": 0
+      "2022-07-10": 73
     }
   },
   {
